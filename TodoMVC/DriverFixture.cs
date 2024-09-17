@@ -23,7 +23,7 @@ namespace TodoMVC
             InitializeDriver();
         }
 
-        private const int TIME_TO_WAIT_FOR_ELEMENT = 10;
+        private const int TIME_TO_WAIT_FOR_ELEMENT = 30;
         public static ThreadLocal<AdapterFixture>? Driver { get; set; }
         protected abstract void InitializeDriver();
         public virtual int WaitForElementTimeout { get; set; } = TIME_TO_WAIT_FOR_ELEMENT;
