@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CSharp\\Xunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\adapterfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\adapterfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\compiletojstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\compiletojstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\pages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\pages\\todopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\pages\\pagesfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\pages\\pagesfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|d:\\programming\\csharp\\xunit\\todomvc\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCAA02-BE5B-49F9-B2A0-67945D259ADD}|TodoMVC\\TodoMVC.csproj|solutionrelative:todomvc\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverFixture.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\DriverFixture.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\DriverFixture.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\DriverFixture.cs",
+              "RelativeToolTip": "TodoMVC\\DriverFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:59:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompileToJSTest.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\CompileToJSTest.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\CompileToJSTest.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\CompileToJSTest.cs",
+              "RelativeToolTip": "TodoMVC\\CompileToJSTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:01:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\BasePage.cs",
+              "RelativeToolTip": "TodoMVC\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:55:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoPage.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\TodoPage.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\Pages\\TodoPage.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\TodoPage.cs",
+              "RelativeToolTip": "TodoMVC\\Pages\\TodoPage.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:55:36.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\HomePage.cs",
+              "RelativeToolTip": "TodoMVC\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:55:23.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagesFixture.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\PagesFixture.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\Pages\\PagesFixture.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\Pages\\PagesFixture.cs",
+              "RelativeToolTip": "TodoMVC\\Pages\\PagesFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:54:29.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdapterFixture.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\AdapterFixture.cs",
+              "RelativeDocumentMoniker": "TodoMVC\\AdapterFixture.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\Xunit\\TodoMVC\\AdapterFixture.cs",
+              "RelativeToolTip": "TodoMVC\\AdapterFixture.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:51:29.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
