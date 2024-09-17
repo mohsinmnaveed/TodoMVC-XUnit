@@ -14,3 +14,7 @@ TestResults/
 
 # Package files
 *.nupkg
+
+
+#Exclude Content file
+Content/
